@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @DarynOngera
-- 👨🏾‍💻 I fancy myself as an upcoming fullstack developer
+- 👨🏾‍💻 #hacktheworld <cybersec>
 - 📍 I am located in Nairobi, Kenya
-- 👀 I’m interested in anything that challenges and improves my skills
+- 👀 I’m interested in anything that challenges my technical intelligence 
 - 🌱 I’m currently majoring in Informatics and Computer Science at Strathmore University 
-- 💞️ I’m looking to collaborate on fullstack projects and hackathon events
+- 💞️ I’m looking to collaborate on AI and cybersec projects and hackathon events
 - 📫 You can reach me via email, ongeradaryn@gmail.com 
 
 <!---
