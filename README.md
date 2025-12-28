@@ -1,12 +1,47 @@
-- 👋 Hi, I’m @DarynOngera
-- 👨🏾‍💻 #hacktheworld <cybersec>
-- 🌐 I am located everywhere on the internet
-- 🧠 I’m interested in anything that challenges my technical intelligence 
-- 📚 I’m currently majoring in Informatics and Computer Science at Strathmore University 
-- 🤓 I’m looking to collaborate on AI and cybersec projects and hackathon events
-- 📫 You can reach me via email ongeradaryn@gmail.com 
+# Daryn Ongera
+## Backend Engineer | Systems Design | Cybersecurity Enthusiast
 
-<!---
-DarynOngera/DarynOngera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Elixir](https://img.shields.io/badge/Elixir-Backend%20Systems-4B275F?style=flat&logo=elixir)
+![Rust](https://img.shields.io/badge/Rust-Systems%20Programming-000000?style=flat&logo=rust)
+![Cybersecurity](https://img.shields.io/badge/Focus-Security-555555?style=flat)
+
+Building production-grade backend systems focused on **reliability**, **observability**, and **security**.
+
+---
+
+### Focus Areas
+- Backend systems engineering
+- SOC tooling & automation
+- Offensive security practices
+
+### Tech Stack
+- **Core:** Elixir, Rust
+- **Supporting:** JavaScript, Python
+
+---
+
+### Key Projects
+- **Distributed Vulnerability Assessment Platform**  
+  Rust agents + Elixir/Phoenix dashboard for real-time, centralized monitoring.  
+  [Repo](https://github.com/DarynOngera/VulnAssesssmentTool) <!-- replace # with actual repo link -->
+
+- **Production-Oriented Elixir HTTP Server**  
+  Reliability-focused with built-in observability via Prometheus & Grafana.  
+  [Repo](https://github.com/DarynOngera/Monitoring-Server) <!-- replace # with actual repo link -->
+
+---
+
+### Achievements
+- Oracle GreenTech Hackathon — **Champion** 🏆
+- Pesalink FinTech Hackathon — **Champion** 🏆
+
+---
+
+### Let's Collaborate
+Open to projects in backend, security, or AI-integrated systems.
+
+📫 Email: **ongeradaryn@gmail.com**  
+🔗 LinkedIn: [linkedin.com/in/ongeradaryn](https://linkedin.com/in/ongeradaryn)  
+🐦 X/Twitter: [@140ngera](https://twitter.com/140ngera)
+🌍 Portfolio: [ongeradaryn.blog](https://ongeradaryn.blog)
+
