@@ -41,7 +41,10 @@ Building production-grade backend systems focused on **reliability**, **observab
 Open to projects in backend, security, or AI-integrated systems.
 
 📫 Email: **ongeradaryn@gmail.com**  
+
 🔗 LinkedIn: [linkedin.com/in/ongeradaryn](https://linkedin.com/in/ongeradaryn)  
+
 🐦 X/Twitter: [@140ngera](https://twitter.com/140ngera)
+
 🌍 Portfolio: [ongeradaryn.blog](https://ongeradaryn.blog)
 
