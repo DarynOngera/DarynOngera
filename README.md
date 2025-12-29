@@ -23,7 +23,7 @@ Building production-grade backend systems focused on **reliability**, **observab
 ### Projects
 - **Distributed Vulnerability Assessment Platform**  
   Rust agents + Elixir/Phoenix dashboard for real-time, centralized monitoring.  
-  [Repo](https://github.com/DarynOngera/VulnAssesssmentTool) <!-- replace # with actual repo link -->
+  [Repo](https://github.com/DarynOngera/VulnAssessmentTool) <!-- replace # with actual repo link -->
 
 - **Production-Oriented Elixir HTTP Server**  
   Reliability-focused with built-in observability via Prometheus & Grafana.  
