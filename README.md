@@ -20,7 +20,7 @@ Building production-grade backend systems focused on **reliability**, **observab
 
 ---
 
-### Key Projects
+### Projects
 - **Distributed Vulnerability Assessment Platform**  
   Rust agents + Elixir/Phoenix dashboard for real-time, centralized monitoring.  
   [Repo](https://github.com/DarynOngera/VulnAssesssmentTool) <!-- replace # with actual repo link -->
@@ -28,6 +28,11 @@ Building production-grade backend systems focused on **reliability**, **observab
 - **Production-Oriented Elixir HTTP Server**  
   Reliability-focused with built-in observability via Prometheus & Grafana.  
   [Repo](https://github.com/DarynOngera/Monitoring-Server) <!-- replace # with actual repo link -->
+  
+### Currently working on
+- **ElixirServerCore**
+  A minimal, production-grade server framework for building reliable, observable backend services.
+  [Repo](https://github.com/DarynOngera/ElixirServerCore)
 
 ---
 
