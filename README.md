@@ -30,8 +30,9 @@ Building production-grade backend systems focused on **reliability**, **observab
   [Repo](https://github.com/DarynOngera/Monitoring-Server) <!-- replace # with actual repo link -->
   
 ### Currently working on
-- **ElixirServerCore**
-  A minimal, production-grade server framework for building reliable, observable backend services.
+- **ElixirServerCore**  
+  A minimal, production-grade server framework for building reliable,
+  observable backend services.  
   [Repo](https://github.com/DarynOngera/ElixirServerCore)
 
 ---
