@@ -33,7 +33,9 @@ Building production-grade backend systems focused on **reliability**, **observab
 - **ElixirServerCore**  
   A minimal, production-grade server framework for building reliable,
   observable backend services.  
-  [Repo](https://github.com/DarynOngera/ElixirServerCore)
+  [Repo](https://github.com/DarynOngera/ElixirServerCore)  
+
+- I also maintain [kyc](https://kejayacapo.shop)
 
 ---
 
