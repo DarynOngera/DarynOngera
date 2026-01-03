@@ -37,7 +37,12 @@ Building production-grade backend systems focused on **reliability**, **observab
   observable backend services.  
   [Repo](https://github.com/DarynOngera/ElixirServerCore)  
 
-- I also maintain [kyc](https://kejayacapo.shop) **A CRTV AGNC**, An Atelier in Curated Goods, Music, Events & Experiences.
+- I also maintain [kyc](https://kejayacapo.shop) **A CRTV AGNC**, An Atelier in Curated Goods, Music, Events & Experiences.  
+  >**Atelier**  
+  >**Noun** · /ˌætəlˈjeɪ/    
+  >A workshop or studio, especially one used by an artist or designer.
+
+  
 ---
 
 ### Achievements
