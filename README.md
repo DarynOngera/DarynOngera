@@ -40,7 +40,7 @@ Building production-grade backend systems focused on **reliability**, **observab
 - I also maintain [kyc](https://kejayacapo.shop) **A CRTV AGNC**, An Atelier in Curated Goods, Music, Events & Experiences.  
   >**Atelier**  
   >**Noun** · /ˌætəlˈjeɪ/    
-  >A workshop or studio, especially one used by an artist or designer.
+  >A workshop or studio, especially one used by an artist or designer.  
 
   
 ---
