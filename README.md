@@ -1,4 +1,4 @@
-# Daryn Ongera
+hi# Daryn Ongera
 ## Backend Engineer | Systems Design | Cybersecurity Enthusiast
 
 ![Elixir](https://img.shields.io/badge/Elixir-Backend%20Systems-4B275F?style=flat&logo=elixir)
@@ -53,7 +53,6 @@ Building production-grade backend systems focused on **reliability**, **observab
 ---
 
 ### Let's Collaborate
-Open to projects in backend, security, or AI-integrated systems.
 
 📫 Email: **ongeradaryn@gmail.com**  
 
