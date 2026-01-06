@@ -48,7 +48,7 @@ Building production-grade backend systems focused on **reliability**, **observab
 ### Achievements
 - Oracle GreenTech Hackathon — **Champion** 🏆
 - Pesalink FinTech Hackathon — **Champion** 🏆
-- Cashia Fintech Hackathon — **Runner-up** 🏆
+- Cashia FinTech Hackathon — **Runner-up** 🏆
 
 ---
 
