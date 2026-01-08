@@ -1,4 +1,4 @@
-hi# Daryn Ongera
+# Daryn Ongera
 ## Backend Engineer | Systems Design | Cybersecurity Enthusiast
 
 ![Elixir](https://img.shields.io/badge/Elixir-Backend%20Systems-4B275F?style=flat&logo=elixir)
