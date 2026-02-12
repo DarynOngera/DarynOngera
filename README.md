@@ -11,9 +11,8 @@ Building production-grade backend systems focused on **reliability**, **observab
 
 ### Focus Areas
 - Backend systems engineering
-- SOC tooling & automation
 - Offensive security practices
-- Exploring the systems programming frontier
+- Exploring systems programming frontier
 
 
 ### Tech Stack
