@@ -17,8 +17,8 @@ Building production-grade backend systems focused on **reliability**, **observab
 
 
 ### Tech Stack
-- **Core:** Elixir, Rust
-- **Supporting:** JavaScript, Python
+- **Core:** Elixir, C
+- **Supporting:** JavaScript, Python, Rust
 
 ---
 
