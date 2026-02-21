@@ -4,7 +4,7 @@
 ![Elixir](https://img.shields.io/badge/Elixir-Backend%20Systems-4B275F?style=flat&logo=elixir)
 <!--![Rust](https://img.shields.io/badge/Rust-Systems%20Programming-000000?style=flat&logo=rust)-->
 ![C](https://img.shields.io/badge/C-Systems%20Programming-00599C?style=flat&logo=c&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Focus-Security-555555?style=flat)
+![Cybersecurity](https://img.shields.io/badge/Focus-Performance-555555?style=flat)
 
 Building production-grade backend systems focused on **reliability**, **observability**, and **security**.
 
