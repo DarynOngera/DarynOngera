@@ -45,7 +45,7 @@ Building production-grade backend systems focused on **reliability**, **observab
 ---
 
 ### Achievements
-- Oracle GreenTech Hackathon — **Champion** 🏆
+- [Oracle GreenTech Hackathon](https://ilabafrica.strathmore.edu/kenyan-students-lead-the-way-in-green-innovation-at-the-2025-green-tech-hackathon/) — **Champion** 🏆
 - Pesalink FinTech Hackathon — **Champion** 🏆
 - Cashia FinTech Hackathon — **Runner-up** 🏆
 
