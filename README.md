@@ -34,7 +34,11 @@ Building production-grade backend systems focused on **reliability**, **observab
 - **ElixirServerCore**  
   A minimal, production-grade server framework for building reliable,
   observable backend services.  
-  [Repo](https://github.com/DarynOngera/ElixirServerCore)  
+  [Repo](https://github.com/DarynOngera/ElixirServerCore)
+
+  - **Envsync**  
+  A developer tool for safely sharing and syncing environment secrets within the team. On-premise solution.  
+  [Repo entry](https://github.com/DarynOngera/envsync)  
 
 - I also maintain [kyc](https://kejayacapo.shop) **A CRTV AGNC**, An Atelier in Curated Goods, Music, Events & Experiences.  
   >**Atelier**  
@@ -53,7 +57,7 @@ Building production-grade backend systems focused on **reliability**, **observab
 
 ### Let's Collaborate
 
-📫 Email: **ongeradaryn@gmail.com**  
+📫 Email: ongeradaryn@gmail.com
 
 🔗 LinkedIn: [linkedin.com/in/ongeradaryn](https://linkedin.com/in/ongeradaryn)  
 
