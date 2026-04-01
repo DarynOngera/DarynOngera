@@ -36,7 +36,7 @@ Building production-grade backend systems focused on **reliability**, **observab
   observable backend services.  
   [Repo](https://github.com/DarynOngera/ElixirServerCore)
 
-  - **Envsync**  
+- **Envsync**  
   A developer tool for safely sharing and syncing environment secrets within the team. On-premise solution.  
   [Repo entry](https://github.com/DarynOngera/envsync)  
 
