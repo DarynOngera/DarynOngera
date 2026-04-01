@@ -12,7 +12,7 @@ Building production-grade backend systems focused on **reliability**, **observab
 ### Focus Areas
 - Backend systems engineering
 - Offensive security practices
-- Exploring systems programming frontier
+- Exploring systems programming
 
 
 ### Tech Stack
