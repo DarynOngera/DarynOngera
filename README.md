@@ -35,6 +35,7 @@ Building production-grade backend systems focused on **reliability**, **observab
   A minimal, production-grade server framework for building reliable,
   observable backend services.  
   [Repo](https://github.com/DarynOngera/ElixirServerCore)
+  [hexdocs](https://hex.pm/packages/elixir_server_core)
 
 - **Envsync**  
   A developer tool for safely sharing and syncing environment secrets within the team. On-premise solution.  
