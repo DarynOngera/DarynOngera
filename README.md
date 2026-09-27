@@ -64,5 +64,5 @@ Building production-grade backend systems focused on **reliability**, **observab
 
 🐦 X/Twitter: [@140ngera](https://twitter.com/140ngera)
 
-🌍 Portfolio: [ongeradaryn.blog](https://ongeradaryn.blog)
+🌍 Portfolio: [darynongera.github.io](https://darynongera.github.io)
 
